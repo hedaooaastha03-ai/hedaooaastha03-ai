@@ -11,7 +11,7 @@ MBA Graduate | Working at RupeeDot
 ## Current Work:
 - Health Insurance Sales
 - Business Development
-- HR DEpartment
+- HR Department
 
 ## Skilled in:
 - Stakeholder Management 
