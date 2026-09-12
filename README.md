@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aastha 👋
+
+MBA Graduate | Working at RupeeDot
+
+## What I Do:
+- HR & Hiring
+- Sales & Lead Generation
+- Operations
+- Cross Sell Initiative
+
+## Current Work:
+- Health Insurance Sales
+- Business Development
+- HR DEpartment
+
+## Skilled in:
+- Stakeholder Management 
+- Hiring Strategy
+- Sales Scripts
+- Payroll Excel Work
+- Data Management 
+- Employee Coordination
+
+Check my work in repositories below.. 
 
 <!--
 **hedaooaastha03-ai/hedaooaastha03-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
